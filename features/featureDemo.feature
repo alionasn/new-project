@@ -1,4 +1,4 @@
-Feature: Verify Sign up page
-  Scenario: Verify that user is able to register the app
+Feature: Check login page
+  Scenario: Verify that user can login into app
 
     Scenario: Positive flow login page
